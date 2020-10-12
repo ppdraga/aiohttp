@@ -1,0 +1,6 @@
+aiohttp
+aiopg
+aiosqlite
+aiohttp_jinja2
+sqlalchemy
+pyyaml
